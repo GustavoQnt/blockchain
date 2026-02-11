@@ -1,0 +1,18 @@
+# Build outputs
+bin/
+obj/
+
+# Rider / Visual Studio
+.idea/
+.vs/
+*.user
+*.suo
+
+# Test and coverage
+TestResults/
+coverage/
+*.coverage
+*.trx
+
+# Logs
+*.log
